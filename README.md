@@ -7,7 +7,7 @@
 
 <div>
  
- 🔭 I’m currently working on an **Event organizing website**
+ 🔭 I’m currently working on a **Pronunciation App with AI**
  
  🌱 I’m currently learning **Java, React, AWS**
 
