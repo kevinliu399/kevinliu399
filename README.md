@@ -9,7 +9,7 @@
  
  🔭 I’m currently working on a **Pronunciation App with AI**
  
- 🌱 I’m currently learning **Java, React, AWS**
+ 🌱 I’m currently learning/reading **Speech and Language Processing by Dan Jurafsky and James H. Martin**
 
 💬 Reach out to me! 😀
 
