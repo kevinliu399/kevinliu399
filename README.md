@@ -7,9 +7,9 @@
 
 <div>
  
- 🔭 I’m currently working on a **Pronunciation App with AI**
+ 🔭 I’m currently interning at a startup
  
- 🌱 I’m currently learning/reading **Speech and Language Processing by Dan Jurafsky and James H. Martin**
+ 🌱 I’m currently learning/reading **Nextjs, Typescript, and React**
 
 💬 Reach out to me! 😀
 
