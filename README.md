@@ -9,7 +9,7 @@
  
  🔭 I’m currently interning at a startup
  
- 🌱 I’m currently learning **Nextjs, Typescript, and React**
+ 🌱 I’m trying to become better at **C**
 
 💬 Reach out to me! 😀
 
