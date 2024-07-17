@@ -30,10 +30,6 @@
  <hr/>
 
 <div align = center>
-  <h2> Top Languages 👨‍💻 </h2>
-  <div align=center>
-  <img src="https://skillicons.dev/icons?i=python,javascript,css,html,r,java,git,mysql,java,c,bash" /><br><br>
-
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kevinliu399&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
