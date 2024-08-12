@@ -9,7 +9,7 @@
  
  🔭 I’m currently interning at a startup
  
- 🌱 I’m interested in **C, Go, and ML**
+ 🌱 I’m interested in **Embedded Systems and AI**
 
 💬 Reach out to me! 😀
 
