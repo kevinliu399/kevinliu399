@@ -7,7 +7,7 @@
 
 <div>
  
- 🔭 I’m currently interning at a startup
+ 🔭 I’m currently learning **C and C++**
  
  🌱 I’m interested in **Embedded Systems and AI**
 
