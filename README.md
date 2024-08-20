@@ -9,7 +9,7 @@
  
  🔭 I’m currently learning **C and C++**
  
- 🌱 I’m interested in **Embedded Systems and AI**
+ 🌱 I’m interested in **Embedded Systems, Programming Languages, and AI**
 
 💬 Reach out to me! 😀
 
